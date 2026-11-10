@@ -1,0 +1,11 @@
+   {
+     "name": "impacto-verde",
+     "version": "1.0.0",
+     "description": "Site Impacto Verde (HTML, CSS e JS puro)",
+     "scripts": {
+       "start": "serve . -l tcp://0.0.0.0:$PORT"
+     },
+     "dependencies": {
+       "serve": "^14.2.0"
+     }
+   }
